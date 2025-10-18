@@ -23,6 +23,8 @@ async function connect() {
         // this funtuion tells it to request the wallet address
         await walletClient.requestAddresses();
         console.log("hi");
+        
+        
 
 
         console.log("connect your wallet");
